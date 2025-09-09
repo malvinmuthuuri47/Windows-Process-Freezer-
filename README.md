@@ -11,5 +11,5 @@
 > [!IMPORTANT]
 > Running the application is straightforward. Run it like you would any other python module as there are no external dependencies
 
-[!CAUTION]
+> [!CAUTION]
 > This is a working prototype with which you are free to improve and extend as you wish. Note however that if you aren't familiar with systems programming, you can easily do some serious damage to your OS and even freeze your system apps. So, please use with caution
